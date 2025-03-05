@@ -1,0 +1,88 @@
+2025-02-01 21:32:04.5367 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-01 21:32:04.5544 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-01 21:32:04.5657 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-01 21:32:04.5657 Info Configuration initialized.
+2025-02-01 21:34:59.7345 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-01 21:34:59.7463 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-01 21:34:59.7463 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-01 21:34:59.7630 Info Configuration initialized.
+2025-02-01 22:58:14.7091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-01 22:58:14.7239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-01 22:58:14.7239 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-01 22:58:14.7422 Info Configuration initialized.
+2025-02-01 22:59:39.6076 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-01 22:59:39.6207 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-01 22:59:39.6293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-01 22:59:39.6293 Info Configuration initialized.
+2025-02-01 23:00:04.7384 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-01 23:00:04.7515 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-01 23:00:04.7515 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-01 23:00:04.7712 Info Configuration initialized.
+2025-02-01 23:03:39.7389 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-01 23:03:39.7528 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-01 23:03:39.7528 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-01 23:03:39.7691 Info Configuration initialized.
+2025-02-01 23:21:30.3120 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-01 23:21:30.3262 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-01 23:21:30.3348 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-01 23:21:30.3348 Info Configuration initialized.
+2025-02-04 13:14:46.8506 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-04 13:14:46.8764 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-04 13:14:46.8925 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-04 13:14:46.9102 Info Configuration initialized.
+2025-02-04 13:23:54.7872 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-04 13:23:54.8078 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-04 13:23:54.8267 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-04 13:23:54.8486 Info Configuration initialized.
+2025-02-04 13:25:26.0062 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-04 13:25:26.0249 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-04 13:25:26.0348 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-04 13:25:26.0467 Info Configuration initialized.
+2025-02-04 14:02:14.5301 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-04 14:02:14.5443 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-04 14:02:14.5549 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-04 14:02:14.5660 Info Configuration initialized.
+2025-02-04 14:03:02.1687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-04 14:03:02.1833 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-04 14:03:02.1973 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-04 14:03:02.2124 Info Configuration initialized.
+2025-02-06 13:30:59.6090 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-06 13:30:59.6249 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-06 13:30:59.6331 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-06 13:30:59.6425 Info Configuration initialized.
+2025-02-06 13:39:49.2137 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-06 13:39:49.2255 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-06 13:39:49.2255 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-06 13:39:49.2432 Info Configuration initialized.
+2025-02-06 13:46:27.1078 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-06 13:46:27.1188 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-06 13:46:27.1316 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-06 13:46:27.1434 Info Configuration initialized.
+2025-02-06 13:47:29.1318 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-06 13:47:29.1431 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-06 13:47:29.1431 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-06 13:47:29.1618 Info Configuration initialized.
+2025-02-06 14:54:09.4595 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-06 14:54:09.4740 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-06 14:54:09.4740 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-06 14:54:09.4932 Info Configuration initialized.
+2025-02-06 15:30:48.6826 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-02-06 15:30:48.6942 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-06 15:30:48.6942 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-02-06 15:30:48.7105 Info Configuration initialized.
+2025-03-05 11:42:11.9018 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-05 11:42:11.9150 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-05 11:42:11.9257 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-03-05 11:42:11.9257 Info Configuration initialized.
+2025-03-05 11:55:22.5857 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-05 11:55:22.6105 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-05 11:55:22.6286 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-03-05 11:55:22.6542 Info Configuration initialized.
+2025-03-05 12:13:13.9144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-05 12:13:13.9307 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-05 12:13:13.9423 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\source\repos\Api Egitim\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-03-05 12:13:13.9423 Info Configuration initialized.
+2025-03-05 12:39:36.2884 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-05 12:39:36.3037 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-05 12:39:36.3176 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\Desktop\Projects\bsStoreApp\bsStoreApp\WebApi\nlog.config
+2025-03-05 12:39:36.3176 Info Configuration initialized.
