@@ -6,5 +6,8 @@
         public uint MaxPrice { get; set; } = 1000; //kitapların max price 1000 olarak vermiştim 
         public bool ValidPriceRange => MaxPrice > MinPrice;
 
+        // for searching
+        public String? SearchTerm { get; set; } 
+
     }
 }
