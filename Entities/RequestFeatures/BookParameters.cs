@@ -7,7 +7,12 @@
         public bool ValidPriceRange => MaxPrice > MinPrice;
 
         // for searching
-        public String? SearchTerm { get; set; } 
+        public String? SearchTerm { get; set; }
+
+        public BookParameters()
+        {
+            OrderBy = "id";
+        }
 
     }
 }
