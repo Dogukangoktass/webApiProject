@@ -134,3 +134,7 @@
 2025-03-09 13:53:31.3622 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
 2025-03-09 13:53:31.3622 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\Desktop\Projects\webApiProject\WebApi\nlog.config
 2025-03-09 13:53:31.3899 Info Configuration initialized.
+2025-03-10 16:49:43.7092 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2025-03-10 16:49:43.7537 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-03-10 16:49:43.7537 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Dogukan\Desktop\Projects\webApiProject\WebApi\nlog.config
+2025-03-10 16:49:43.7774 Info Configuration initialized.
